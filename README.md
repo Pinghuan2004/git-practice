@@ -1,2 +1,4 @@
 # git-practice
-Practice git!
+### WHAT I HAVE LEARNED
+### FURTHER DISCUSSING
+### FURTHER LEARNING
