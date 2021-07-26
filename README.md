@@ -8,3 +8,5 @@
 * 利用可變電阻、led燈、蜂鳴器......進行搭配來做出各種新奇的產品
 ### FURTHER LEARNING
 之前在網路上有看到更多arduino的電子零件，像是遊戲搖桿，而這個零件再創客營中是完全沒有講到的，或許我可以在未來買一本有關arduino的書籍來更加一步的瞭解這些電子零件
+
+![](https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1622901922207.jpg)
